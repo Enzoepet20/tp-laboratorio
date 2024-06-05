@@ -1,0 +1,36 @@
+.aside {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    width: 200px;
+    display: flex;
+  }
+  
+  
+  .aside-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .aside-section {
+    margin-bottom: 20px;
+  }
+  
+  .aside-section h3 {
+    margin-bottom: 10px;
+  }
+  
+  .aside-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .aside-section ul li {
+    margin-bottom: 5px;
+  }
+  
+  .aside-section ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
